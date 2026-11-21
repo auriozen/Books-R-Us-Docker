@@ -1,0 +1,8 @@
+
+bookServiceFrontEnd/
+ilaydaaozenSimpleBookService/
+.idea/
+exportToHTML/
+.env
+.env.*
+*.log

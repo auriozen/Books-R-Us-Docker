@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/auriozen/simple-book-service-.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/auriozen/book-service-frontend.git
